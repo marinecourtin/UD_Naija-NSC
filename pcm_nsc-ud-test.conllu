@@ -4421,7 +4421,7 @@
 13	im	im	PRON	_	_	15	nsubj:expl	_	_
 14	dey	dey	PART	_	_	15	cop	_	_
 15	hard	hard	ADJ	_	_	0	root	_	_
-16	ma	ma	PUNCT	_	_	17	punct	_	_
+16	ma	ma	PRON	_	_	17	det	_	_
 17	broda	broda	NOUN	_	_	15	vocative	_	_
 18	//+	//+	PUNCT	_	_	19	punct	_	_
 19	hard	hard	ADJ	_	_	15	conj:dicto	_	_
